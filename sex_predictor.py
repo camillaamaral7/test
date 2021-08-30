@@ -77,7 +77,7 @@ from sklearn.metrics import accuracy_score
 dtc_tree_acc = accuracy_score(dtc_prediction,y1)
 #print(dtc_tree_acc)
 
-#--- 5 ---  What is bether?
+#--- 5 ---  What is better?
 classifiers = ['Test Train Split', 'Decision Tree']
 accuracy = np.array([model.score(x_test, y_test),dtc_tree_acc])
 max_acc = np.argmax(accuracy)

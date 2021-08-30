@@ -43,10 +43,3 @@ The 'test_data_CANDIDATE.csv' file contains some patient's data. The test consis
 * It is very important that you carefully describe your line of thinking, the steps made, the decisions you made and why, so that we can understand your way of working.
 * Don't forget to add a README file detailing how to setup and run your test;
 * If you have any tests that failed and you decided to abort, mention it, the parameters used and the results obtained in your report.
-
-## Submission
-
-* The challenge must be delivered using [GitHub](http://github.com/), [Bitbucket](http://bitbucket.org/) or [GitLab](http://gitlab.com/). Share with us and send the URL of your code by e-mail.
-* Any questions should be asked in response to this e-mail.
-
-Good luck!
